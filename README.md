@@ -27,15 +27,15 @@ Python · `cryptography` library · matplotlib · LaTeX
 | Verify | Ed25519 | <!-- e.g. ~0.116 ms --> |
 | Shared secret | X25519 | <!-- e.g. ~0.037 ms --> |
 
-- ![Benchmark comparison](images/benchmark.png) <!-- replace -->
+- ![Benchmark comparison](bench_plot.png) 
 
 > Benchmarks run on: <!-- CPU / RAM / OS / Python & library versions -->
 
 ## Repository Structure
 
-├── thesis.pdf            # full thesis
-├── benchmarks/           # Python benchmarking scripts
-├── figures/              # matplotlib outputs
+├── teza_finala.pdf            # full thesis
+├── cod_v2.py                  # Python benchmarking scripts
+├── bench_plot.png             # matplotlib outputs
 └── README.md
 ```
 
